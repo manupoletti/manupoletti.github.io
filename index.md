@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![boats on the harbor](assets/boats_on_harbor.jpg)
